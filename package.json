@@ -1,0 +1,25 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb-base": "^9.0.0",
+    "eslint-loader": "^1.6.0",
+    "eslint-plugin-import": "^2.0.1",
+    "html-webpack-plugin": "^2.24.1",
+    "jquery": "^3.2.1",
+    "lodash": "^4.16.6",
+    "source-map-loader": "^0.2.0",
+    "style-loader": "^0.13.1",
+    "underscore-template-loader": "^0.7.3",
+    "webpack": "^1.13.2"
+  }
+}
