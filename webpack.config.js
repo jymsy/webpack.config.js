@@ -17,7 +17,7 @@ module.exports = {
         upgrade: './js/src/modules/upgrade/upgrade.js',
         accounting: './js/src/modules/upgrade/accounting.js',
         // vendor: ['./js/src/lib/layer/layer.js']
-        vender: ['jquery', 'lodash']
+        vendor: ['jquery', 'lodash']
     },
     output: {
         path: 'js/dist', //输出目录的配置，模板、样式、脚本、图片等资源的路径配置都相对于它
